@@ -1,0 +1,12 @@
+pandas
+numpy
+seborn
+matplotlib
+scikit-learn
+scipy
+statsmodels
+plotly
+ipykernel
+# dash
+#dash-bootstrap-components
+
